@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">Hello, World! Eu me chamo Breno Souza Ponticelli, mas pode me chamar de Kanna 😅<br><br> Tenho 17 anos e moro em Vitória - ES. 🎓 Fiz curso integrado de Redes de Computadores no meu ensino médio. Aprendi um pouco de infraestrutura de redes, servidores, banco de dados e lógica de programação.<br><br>- Atualmente estou trabalhando como estagiário em uma escola de programação e estudo de casa.<br><br>Eu também amo:<br><br>- Desenhar ✏️<br>- Anime  🎬<br>- Games 🎮<br>- Rock 🎸<br>- Design 🎨</h3>
+<h3 align="left">Hello, World! Eu me chamo Breno Souza Ponticelli, mas pode me chamar de Kanna 😅</h3>
 
 ###
 
