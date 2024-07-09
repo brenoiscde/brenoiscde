@@ -1,10 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Breno Souza.<br>I've been a programming student for about a year. I'm delving into web development now.</h2>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/736x/a5/2a/50/a52a5049be337826dd7cc84c7c704607.jpg"  />
+<h3 align="left">Hello, World! Eu me chamo Breno Souza Ponticelli, mas pode me chamar de Kanna 😅<br><br> Tenho 17 anos e moro em Vitória - ES. 🎓 Fiz curso integrado de Redes de Computadores no meu ensino médio. Aprendi um pouco de infraestrutura de redes, servidores, banco de dados e lógica de programação.<br><br>- Atualmente estou trabalhando como estagiário em uma escola de programação e estudo de casa.<br><br>Eu também amo:<br><br>- Desenhar ✏️<br>- Anime  🎬<br>- Games 🎮<br>- Rock 🎸<br>- Design 🎨</h3>
 
 ###
 
@@ -45,8 +41,17 @@
 
 ###
 
-<br clear="both">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=brenoiscde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoiscde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p align="left">Hello World!! <br>I have a dream of becoming a great programmer!</p>
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/736x/a5/2a/50/a52a5049be337826dd7cc84c7c704607.jpg"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/brenoiscde/brenoiscde/output/snake.svg" alt="Snake animation" />
 
 ###
