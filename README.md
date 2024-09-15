@@ -47,7 +47,7 @@
 </div>
 
 ###
-<h2>Sobre mim</h2>
+<h1>Sobre mim</h1>
 <hr>
 <p>Muito prazer a todos!<br>Sou um apreciador da tecnologia. Sempre gostei muito de mexer com internet desde pequeno, entretanto, não foi muito difícil saber em qual área eu queria trabalhar. Aos 13 anos de idade entrei no ensino médio com curso integrado de redes, foi nesses 3 anos que eu me apaixonei mais pelo ecossistema tecnológico. Hoje quero fazer o curso Análise e Desenvolvimento de Sistema, para me aperfeiçoar mais e mais.</p>
 
