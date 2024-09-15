@@ -1,9 +1,9 @@
 <br clear="both">
-
-<h3 align="left">Hello, World! Eu me chamo Breno Souza Ponticelli, mas pode me chamar de Kanna 😅</h3>
+<h1>Hello, World!</h1>
+<h3 align="left">Eu me chamo Breno Souza Ponticelli, mas pode me chamar de Kanna 😅</h3>
 
 ###
-
+<h1>🔗 Plataformas<h1>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/breno_sp7/" target="_blank">
@@ -18,7 +18,7 @@
 </div>
 
 ###
-
+<h1>⚙ Habilidades<h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -40,18 +40,15 @@
 </div>
 
 ###
-
+<h1>Git Status</h1>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=brenoiscde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoiscde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.pinimg.com/736x/a5/2a/50/a52a5049be337826dd7cc84c7c704607.jpg"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/brenoiscde/brenoiscde/output/snake.svg" alt="Snake animation" />
+<h2>Sobre mim</h2>
+<hr>
+<p>Muito prazer a todos!<br>Sou um apreciador da tecnologia. Sempre gostei muito de mexer com internet desde pequeno, entretanto, não foi muito difícil saber em qual área eu queria trabalhar. Aos 13 anos de idade entrei no ensino médio com curso integrado de redes, foi nesses 3 anos que eu me apaixonei mais pelo ecossistema tecnológico. Hoje quero fazer o curso Análise e Desenvolvimento de Sistema, para me aperfeiçoar mais e mais.</p>
 
 ###
