@@ -1,4 +1,3 @@
-<br clear="both">
 <h1>Hello, World!</h1>
 <h3 align="left">Eu me chamo Breno Souza Ponticelli, mas pode me chamar de Kanna 😅</h3>
 
